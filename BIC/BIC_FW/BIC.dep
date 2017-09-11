@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1835841221</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\adcHi.c</file>
+      <file>$PROJ_DIR$\switchFd.h</file>
+      <file>$PROJ_DIR$\pwmHi.h</file>
+      <file>$PROJ_DIR$\keypadFd.h</file>
+      <file>$PROJ_DIR$\PidFd.h</file>
+      <file>$PROJ_DIR$\timer.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Cstartup_SAM7.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Vortex\Plant Controller\Plant Controller FW\mk_std.h</file>
+      <file>$PROJ_DIR$\..\include\lib_AT91SAM7A3.h</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\TaskManager.h</file>
+      <file>$PROJ_DIR$\..\include\board.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\flash.pbi</file>
+      <file>$PROJ_DIR$\at91SAM7A3_NoRemap.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\adcHi.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\..\..\Vortex\Plant Controller\Plant Controller FW\cpuPorts.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\PwmDriverFd.r79</file>
+      <file>$PROJ_DIR$\..\..\..\Vortex\Plant Controller\Plant Controller FW\Timer.h</file>
+      <file>$PROJ_DIR$\..\SrcIAR\AT91SAM7S64_inc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Cstartup.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\switchFd.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\SPIHI.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\Timer.r79</file>
+      <file>$PROJ_DIR$\PwmDriverFd.h</file>
+      <file>$PROJ_DIR$\..\include\dbgu.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\switchFd.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\lcdHi.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\PwmDriverFd.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\PwmFd.r79</file>
+      <file>$PROJ_DIR$\Debug\Exe\BIC.d79</file>
+      <file>$PROJ_DIR$\Debug\Obj\KeypadFd.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\string.h</file>
+      <file>$PROJ_DIR$\..\include\AT91SAM7A3.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\lcdHi.r79</file>
+      <file>$PROJ_DIR$\PwmFd.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\CpuPorts.r79</file>
+      <file>$PROJ_DIR$\main.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\lcdFd.r79</file>
+      <file>$PROJ_DIR$\..\..\..\Vortex\Plant Controller\Plant Controller FW\SPIHI.H</file>
+      <file>$PROJ_DIR$\Debug\Obj\adcFd.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\pwmHi.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\flash.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\KeypadFd.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\lcdFd.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\CpuPorts.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\BIC.pbd</file>
+      <file>$TOOLKIT_DIR$\inc\math.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\pwmHi.r79</file>
+      <file>$PROJ_DIR$\lcdFd.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\lcdHi.h</file>
+      <file>$TOOLKIT_DIR$\inc\ysizet.h</file>
+      <file>$PROJ_DIR$\motorcntrl.h</file>
+      <file>$PROJ_DIR$\..\..\..\Vortex\Plant Controller\Plant Controller FW\extMemoryHi.h</file>
+      <file>$TOOLKIT_DIR$\inc\time.h</file>
+      <file>$PROJ_DIR$\adcHi.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\SPIHI.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Cstartup_SAM7.r79</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\PwmFd.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\BIC.elf</file>
+      <file>$PROJ_DIR$\Debug\Obj\TaskManager.r79</file>
+      <file>$TOOLKIT_DIR$\inc\stdlib.h</file>
+      <file>$PROJ_DIR$\..\include\mk_std.h</file>
+      <file>$PROJ_DIR$\..\..\..\CompactCompressors\CCU\commonCCU\parseFd.h</file>
+      <file>$TOOLKIT_DIR$\inc\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\List\BIC.map</file>
+      <file>$TOOLKIT_DIR$\lib\dl4tptinl8n.h</file>
+      <file>$TOOLKIT_DIR$\inc\ymath.h</file>
+      <file>$TOOLKIT_DIR$\inc\stddef.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl4tptinl8n.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\Timer.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\BIC.sim</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adcFd.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\adcHi.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\motorcntrl.r79</file>
+      <file>$PROJ_DIR$\cpuPorts.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\BIC.a79</file>
+      <file>$PROJ_DIR$\flash.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\TaskManager.pbi</file>
+      <file>$PROJ_DIR$\adcFd.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\motorcntrl.pbi</file>
+      <file>$PROJ_DIR$\CpuPorts.c</file>
+      <file>$PROJ_DIR$\adcFd.c</file>
+      <file>$PROJ_DIR$\flash.c</file>
+      <file>$PROJ_DIR$\..\SrcIAR\Cstartup.s79</file>
+      <file>$PROJ_DIR$\..\SrcIAR\Cstartup_SAM7.c</file>
+      <file>$PROJ_DIR$\KeypadFd.C</file>
+      <file>$PROJ_DIR$\lcdFd.c</file>
+      <file>$PROJ_DIR$\lcdHi.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\PwmFd.c</file>
+      <file>$PROJ_DIR$\pwmHi.c</file>
+      <file>$PROJ_DIR$\motorcntrl.c</file>
+      <file>$PROJ_DIR$\PwmDriverFd.c</file>
+      <file>$PROJ_DIR$\readme.txt</file>
+      <file>$PROJ_DIR$\switchFd.c</file>
+      <file>$PROJ_DIR$\..\..\..\Vortex\Plant Controller\Plant Controller FW\SPIHI.C</file>
+      <file>$PROJ_DIR$\Timer.c</file>
+      <file>$PROJ_DIR$\TaskManager.c</file>
+      <file>$PROJ_DIR$\Debug\Exe\BIC.695</file>
+      <file>$PROJ_DIR$\Debug\Exe\BIC.dbg</file>
+      <file>$PROJ_DIR$\Debug\Exe\BIC.bin</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\adcHi.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 78</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 80 33 11 8 66 58 32 68 76 70 61 15 9 54</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80 33 11 8 66 58 32 68 76 61 15 9 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\BIC.d79</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 13 36 20 60 44 17 29 22 64 23 77 78 42 38 34 43 79 50 21 73</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\BIC.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 47 6 31 28 62 59 83 74 40 14 12 45 27 52 85 41 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 105 69 75 30</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\BIC.elf</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 13 36 20 60 44 17 29 22 64 23 77 78 42 38 34 43 79 50 21 73</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\BIC.sim</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 13 36 20 60 44 17 29 22 64 23 77 78 42 38 34 43 79 50 21 73</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\BIC.a79</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 13 36 20 60 44 17 29 22 64 23 77 78 42 38 34 43 79 50 21 73</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\CpuPorts.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5 66 80 33 11 8 25 46 68 76 70 61 15 9 54</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 66 80 33 11 8 25 46 68 76 61 15 9 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\adcFd.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 77</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 84 58 66 11 33 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 84 58 66 11 33 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\flash.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 82 11 33 8 25 46 68 76 70 61 15 9 54</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82 11 33 8 25 46 68 76 61 15 9 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\SrcIAR\Cstartup.s79</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>AARM</name>
+          <file> 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\SrcIAR\Cstartup_SAM7.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11 33 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 33 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\KeypadFd.C</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 72 68 76 70 61 15 9 54 82 11 33 8 25 46 51 80 66 53 67 3 1 4 5 32 55</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 72 68 76 61 15 9 54 82 11 33 8 25 46 51 80 66 53 3 1 4 5 32 55</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\lcdFd.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 51 80 33 11 8 66 53 67 84 58 3 1 4 5 46 68 76 70 61 15 9 54 32 65 49 71 55</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51 80 33 11 8 66 53 84 58 3 1 4 5 46 68 76 61 15 9 54 32 65 49 71 55</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\lcdHi.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5 66 53 80 33 11 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 66 53 80 33 11 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 37 10</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 10</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\PwmFd.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35 66 67 2</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 66 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\pwmHi.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 80 33 11 8 66 2</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80 33 11 8 66 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\motorcntrl.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 65 68 76 70 61 15 9 54 51 80 33 11 8 53 67 55 5 24 35 32</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 65 68 76 61 15 9 54 51 80 33 11 8 53 55 5 24 35 32</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\PwmDriverFd.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 24 66 35 67 2 5</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24 66 35 2 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\switchFd.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1 66 5 80 33 11 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 66 5 80 33 11 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Vortex\Plant Controller\Plant Controller FW\SPIHI.C</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16 33 11 8 7 18 39 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 33 11 8 7 18 39 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Timer.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11 33 8 5 66 80 32 68 76 70 61 15 9 54 57 55 24 35 67</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 33 8 5 66 80 32 68 76 61 15 9 54 57 55 24 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TaskManager.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 51 80 33 11 8 66 53 67 5 10 1 3 4 24 35 84 58 55 32 68 76 70 61 15 9 54</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51 80 33 11 8 66 53 5 10 1 3 4 24 35 84 58 55 32 68 76 61 15 9 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\BIC.695</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 13 36 20 60 44 17 29 22 64 23 77 78 42 38 34 43 79 50 21 73</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\BIC.dbg</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 69 75</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 13 36 20 60 44 17 29 22 64 23 77 78 42 38 34 43 79 50 21 73</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\BIC.bin</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 13 36 20 60 44 17 29 22 64 23 77 78 42 38 34 43 79 50 21 73</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>$PROJ_DIR$\adcHi.c</file>
+      <file>$PROJ_DIR$\Release\Obj\motorcntrl.r79</file>
+      <file>$PROJ_DIR$\Release\Obj\PwmFd.r79</file>
+      <file>$PROJ_DIR$\Release\Obj\main.r79</file>
+      <file>$PROJ_DIR$\switchFd.h</file>
+      <file>$PROJ_DIR$\pwmHi.h</file>
+      <file>$PROJ_DIR$\keypadFd.h</file>
+      <file>$PROJ_DIR$\PidFd.h</file>
+      <file>$PROJ_DIR$\timer.h</file>
+      <file>$PROJ_DIR$\..\..\..\Vortex\Plant Controller\Plant Controller FW\mk_std.h</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Release\Obj\adcHi.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\motorcntrl.pbi</file>
+      <file>$PROJ_DIR$\TaskManager.h</file>
+      <file>$TOOLKIT_DIR$\inc\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\..\..\Vortex\Plant Controller\Plant Controller FW\cpuPorts.h</file>
+      <file>$PROJ_DIR$\..\..\..\Vortex\Plant Controller\Plant Controller FW\Timer.h</file>
+      <file>$PROJ_DIR$\..\SrcIAR\AT91SAM7S64_inc.h</file>
+      <file>$PROJ_DIR$\PwmDriverFd.h</file>
+      <file>$TOOLKIT_DIR$\inc\string.h</file>
+      <file>$PROJ_DIR$\PwmFd.h</file>
+      <file>$PROJ_DIR$\main.h</file>
+      <file>$PROJ_DIR$\..\..\..\Vortex\Plant Controller\Plant Controller FW\SPIHI.H</file>
+      <file>$TOOLKIT_DIR$\inc\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\math.h</file>
+      <file>$PROJ_DIR$\lcdFd.h</file>
+      <file>$PROJ_DIR$\lcdHi.h</file>
+      <file>$TOOLKIT_DIR$\inc\ysizet.h</file>
+      <file>$PROJ_DIR$\motorcntrl.h</file>
+      <file>$PROJ_DIR$\..\..\..\Vortex\Plant Controller\Plant Controller FW\extMemoryHi.h</file>
+      <file>$TOOLKIT_DIR$\inc\time.h</file>
+      <file>$PROJ_DIR$\Release\Obj\CpuPorts.r79</file>
+      <file>$PROJ_DIR$\Release\Obj\flash.r79</file>
+      <file>$PROJ_DIR$\adcHi.h</file>
+      <file>$PROJ_DIR$\Release\Obj\PwmDriverFd.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\PwmDriverFd.r79</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Release\Obj\pwmHi.r79</file>
+      <file>$PROJ_DIR$\Release\Obj\lcdHi.r79</file>
+      <file>$PROJ_DIR$\Release\Obj\lcdFd.r79</file>
+      <file>$PROJ_DIR$\Release\Obj\KeypadFd.r79</file>
+      <file>$TOOLKIT_DIR$\inc\stdlib.h</file>
+      <file>$PROJ_DIR$\Release\Obj\adcHi.r79</file>
+      <file>$PROJ_DIR$\Release\Obj\adcFd.r79</file>
+      <file>$PROJ_DIR$\Release\Obj\Cstartup_SAM7.r79</file>
+      <file>$TOOLKIT_DIR$\inc\yvals.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl4tptinl8n.h</file>
+      <file>$TOOLKIT_DIR$\inc\ymath.h</file>
+      <file>$TOOLKIT_DIR$\inc\stddef.h</file>
+      <file>$PROJ_DIR$\Release\Obj\Cstartup.r79</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Release\Obj\pwmHi.pbi</file>
+      <file>$PROJ_DIR$\cpuPorts.h</file>
+      <file>$PROJ_DIR$\flash.h</file>
+      <file>$PROJ_DIR$\adcFd.h</file>
+      <file>$PROJ_DIR$\CpuPorts.c</file>
+      <file>$PROJ_DIR$\adcFd.c</file>
+      <file>$PROJ_DIR$\Release\Obj\switchFd.r79</file>
+      <file>$PROJ_DIR$\Release\Obj\adcFd.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\lcdHi.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\flash.c</file>
+      <file>$PROJ_DIR$\..\SrcIAR\Cstartup.s79</file>
+      <file>$PROJ_DIR$\..\SrcIAR\Cstartup_SAM7.c</file>
+      <file>$PROJ_DIR$\KeypadFd.C</file>
+      <file>$PROJ_DIR$\lcdFd.c</file>
+      <file>$PROJ_DIR$\lcdHi.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\PwmFd.c</file>
+      <file>$PROJ_DIR$\pwmHi.c</file>
+      <file>$PROJ_DIR$\motorcntrl.c</file>
+      <file>$PROJ_DIR$\PwmDriverFd.c</file>
+      <file>$PROJ_DIR$\readme.txt</file>
+      <file>$PROJ_DIR$\switchFd.c</file>
+      <file>$PROJ_DIR$\..\..\..\Vortex\Plant Controller\Plant Controller FW\SPIHI.C</file>
+      <file>$PROJ_DIR$\Timer.c</file>
+      <file>$PROJ_DIR$\TaskManager.c</file>
+      <file>$PROJ_DIR$\Release\Obj\lcdFd.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\TaskManager.r79</file>
+      <file>$PROJ_DIR$\Release\Obj\SPIHI.r79</file>
+      <file>$PROJ_DIR$\Release\Obj\Timer.r79</file>
+      <file>$PROJ_DIR$\Release\Obj\CpuPorts.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\Cstartup_SAM7.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\PwmFd.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\SPIHI.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\switchFd.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\BIC.pbd</file>
+      <file>$PROJ_DIR$\Release\Exe\BIC.elf</file>
+      <file>$PROJ_DIR$\Release\Obj\Timer.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\TaskManager.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\KeypadFd.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\flash.pbi</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\adcHi.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52 33 19 45 50 36 14 10 27</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 87</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\CpuPorts.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 81</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\adcFd.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 54 33</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\flash.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 91</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\SrcIAR\Cstartup.s79</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>AARM</name>
+          <file> 17</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\SrcIAR\Cstartup_SAM7.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\KeypadFd.C</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 90</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 48 45 50 46 36 14 10 27 53</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48 45 50 36 14 10 27 53 25 52 26 6 4 7 8 19 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\lcdFd.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 39</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 25 52</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25 52 26 54 33 6 4 7 8 23 45 50 36 14 10 27 19 41 24 47 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\lcdHi.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 26 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21 13</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\PwmFd.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\pwmHi.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\motorcntrl.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41 45 50 36 14 10 27 25 52 26 28 8 18 20 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\PwmDriverFd.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 20 5 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\switchFd.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 8 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Vortex\Plant Controller\Plant Controller FW\SPIHI.C</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 84</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15 9 16 22 29</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Timer.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 80</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 88</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 52 19 45 50 36 14 10 27 30 28 18 20</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TaskManager.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 78</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 89</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 25 52</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25 52 26 8 13 4 6 7 18 20 54 33 28 19 45 50 36 14 10 27</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Release\Obj\BIC.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 81 82 90 34 83 84 89 88 58 11 91 77 59 60 12 51 85</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
