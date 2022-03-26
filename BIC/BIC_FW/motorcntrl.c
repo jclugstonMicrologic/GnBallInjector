@@ -41,10 +41,10 @@ MOTOR Motor;
 MOTOR_CONTROL MotorControl;
 MOTOR_PARAMETERS *ModeSelect;
 
-UINT8 *BallCntSelect;
-UINT8 *BallIndexSelect;
+INT16 *BallCntSelect;
+INT16 *BallIndexSelect;
 
-volatile UINT8 BallCounter;
+volatile INT16 BallCounter;
 
 typedef struct
 {
@@ -272,14 +272,13 @@ BOOL HandleBallCounter
       if( mode_ !=MODE_TEST )
       {
          if( mode_ ==MODE_MAN ||
-//             mode_ ==MODE_JOG ||
              dir_ ==MOTOR_REV
            ) //manual
          {
             ModeSelect->start =0;
             MotorStop();
             
-            if( *BallCntSelect ==255 ) // wrapped via decrement (man mode), set to 0
+            if( *BallCntSelect <0 ) // wrapped via decrement (man mode), set to 0
                *BallCntSelect =0; 
             
             if( *BallCntSelect >=MAX_BALL_COUNT )
@@ -291,7 +290,7 @@ BOOL HandleBallCounter
       }                   
    }
  
-   if( *BallCntSelect ==255 )
+   if( *BallCntSelect <0 )
    {
       // went negative
       *BallCntSelect =0;

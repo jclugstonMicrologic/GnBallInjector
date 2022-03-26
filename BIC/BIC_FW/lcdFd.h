@@ -34,13 +34,13 @@ Tools:
  P U B L I C   T Y P E    D E F I N I T I O N S
 *****************************************************************************
 */
-#define SIX_BALLS_PER_REV
+//#define SIX_BALLS_PER_REV
 
 //#define BALL_DROPPER
 
 #ifndef BALL_DROPPER
-#define GN_VERSION       "V1.00"     // "V0.12"  vesion 1.xx is 6balls/rev 250 max ball count
-#define GN_DATE          "12/04/16"  // "08/24/13"      
+#define GN_VERSION       "V0.13a"     // "V0.12"  vesion 1.xx is 6balls/rev 250 max ball count
+#define GN_DATE          "02/07/21"  // "08/24/13"      
 #else
 #define GN_VERSION       "V0.00"
 #define GN_DATE          "05/04/14"      

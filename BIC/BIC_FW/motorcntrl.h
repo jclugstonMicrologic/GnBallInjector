@@ -11,7 +11,7 @@
 #define RUNNING 0
 #define NOT_RUNNING 1
 
-#define MAX_BALL_COUNT 250 //200
+#define MAX_BALL_COUNT 255 //200
 #define MAX_MOTOR_RATE 250
 #define MIN_MOTOR_RATE 1
 
@@ -70,8 +70,8 @@ typedef struct
 
 typedef struct
 {
-   UINT8 load;
-   UINT8 index;
+   INT16 load;
+   INT16 index;
    BOOL increment;     
 }BALL_COUNT;
 
@@ -135,7 +135,7 @@ extern BALL_COUNT BallCount;
 extern MOTOR Motor;
 extern MOTOR_CONTROL MotorControl;
 
-extern volatile UINT8 BallCounter;
+extern volatile INT16 BallCounter;
 
 extern MOTOR_PARAMETERS *ModeSelect;
 

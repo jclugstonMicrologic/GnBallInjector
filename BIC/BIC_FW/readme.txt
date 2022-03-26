@@ -70,6 +70,8 @@ v0.11      Can not adjust load rate when initially enter screen, fixed
 v0.12      Change logo bitmap to new GN logo
 08/24/13   
 
+v0.13a     Change to 255 max ball count (JFlash Lite which does not require a license for Bob to program)
+02/07/21   used 'a' because of multiple tests for Bob via email, left it this way because no big deal
 
 
 

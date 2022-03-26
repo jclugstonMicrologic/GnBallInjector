@@ -663,7 +663,7 @@ void KeySetupState(int key_)
          break;
       case KEY_DOWN:
       case KEY_HELD_DOWN:              
-         if( --BallCount.load ==255 )
+         if( --BallCount.load<0 )// ==255 )
          {
             BallCount.load =0;                
          }        
